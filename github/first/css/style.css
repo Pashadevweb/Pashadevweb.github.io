@@ -1,0 +1,49 @@
+.header {
+	font-size: 20px;
+    margin: 60px auto;
+	line-height: 1.6;
+}
+.header span {
+	display: block;
+}
+.section {
+	padding: 30px 0;
+}
+.form {
+    padding: 35px 20px;
+	border: 5px solid #472cc3;
+}
+.form-header,.why {
+	text-align: center;
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 20px;
+}
+.form input {
+	margin-bottom: 20px;	
+}
+.btn {
+	background-color: #472cc3;
+	margin: 10px auto;
+}
+.feature {
+	margin: 60px auto;
+}
+.feature p {
+	margin-top: 20px;
+	font-size: 16px;
+	font-weight: 690;
+}
+.video {
+	margin-bottom: 30px;
+}
+.feature-box {
+	height: 160px;
+}
+.cl {
+	margin: 33px auto;
+}
+.comments {
+	margin-bottom: 33px;
+}
+
